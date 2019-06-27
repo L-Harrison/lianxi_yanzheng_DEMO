@@ -1,0 +1,9 @@
+D:\documents\visual studio 2015\Projects\练习验证DEMO\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\documents\visual studio 2015\Projects\练习验证DEMO\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\documents\visual studio 2015\Projects\练习验证DEMO\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\documents\visual studio 2015\Projects\练习验证DEMO\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\documents\visual studio 2015\Projects\练习验证DEMO\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\documents\visual studio 2015\Projects\练习验证DEMO\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\documents\visual studio 2015\Projects\lianxi_yanzheng_DEMO\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\documents\visual studio 2015\Projects\lianxi_yanzheng_DEMO\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\documents\visual studio 2015\Projects\lianxi_yanzheng_DEMO\ConsoleApp\obj\Debug\ConsoleApp.pdb
